@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Averager", "Average\Average
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Averager.Tests", "Average.Tests\Averager.Tests.csproj", "{617B4312-F4A3-40C8-8D52-F3B8E644916F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{5C45DE7E-0644-40F5-9485-5D626D772EB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections.Tests", "Collections.Tests\Collections.Tests.csproj", "{F269DDC0-496C-499C-A609-A05CDE1A2936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{617B4312-F4A3-40C8-8D52-F3B8E644916F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617B4312-F4A3-40C8-8D52-F3B8E644916F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617B4312-F4A3-40C8-8D52-F3B8E644916F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C45DE7E-0644-40F5-9485-5D626D772EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C45DE7E-0644-40F5-9485-5D626D772EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C45DE7E-0644-40F5-9485-5D626D772EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C45DE7E-0644-40F5-9485-5D626D772EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F269DDC0-496C-499C-A609-A05CDE1A2936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F269DDC0-496C-499C-A609-A05CDE1A2936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F269DDC0-496C-499C-A609-A05CDE1A2936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F269DDC0-496C-499C-A609-A05CDE1A2936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
